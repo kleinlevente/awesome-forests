@@ -35,6 +35,9 @@ A tree species classification dataset from urban Pasadena, USA, with ≈ 80k lab
 - [**Open AI Challenge: Aerial Imagery of South Pacific Islands**](https://docs.google.com/document/d/16kKik2clGutKejU8uqZevNY6JALf4aVk2ELxLeR-msQ/edit) *(WeRobotics, Worldbank, 2018)* \
 A tree species classification dataset from Kingdom of Tonga with 50km² data of 4 species with airborne RGB imagery.
 
+- [**Open Tree species list**](https://opentrees.org/) *(2021)* \
+A collection of geolocated tree species dataset from the internet.Data quality is varying and some datasets are quite old
+
 #### Raw
 - [**Raw urban street tree inventory data**](https://enterprisecontentnew-usfs.hub.arcgis.com/datasets/raw-urban-street-tree-inventory-data-for-49-california-cities) *(USFS, 2006-2013)* \
 A raw dataset from 49 cities in California, USA, with ≈930k trees with forest structure variables (e.g., tree species, height, DBH, crown).
@@ -76,8 +79,11 @@ A flora and fauna location-based species recommendation dataset from France with
 * todo: add allometric equations and above- and belowground carbon inventories
 
 ## Tree crown segmentation
+
 #### Processed
-* todo
+ -[**PyCrown - Fast raster-based individual tree segmentation for LiDAR data**](https://github.com/manaakiwhenua/pycrown)
+Lidar data segmentation
+
 
 #### Raw
 * [**An Unexpectedly Large Count of Trees in the West African Sahara and Sahel**](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1832) (Brandt et al., 2020) \
